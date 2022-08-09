@@ -23,7 +23,7 @@
 ---
 
 <!--START_SECTION:waka-->
-**Total ![visitor no](https://visitor-badge.glitch.me/badge?page_id=Simpleboy353.Simpleboy353&left_color=black&right_color=black)**
+**Total ![visitor no](https://visitor-badge.glitch.me/badge?page_id=1Lucass.1Lucass&left_color=black&right_color=black)**
 
 ```text
 🌞 Morning    158 commits    ██████████░░░░░░░░░░░░░░░   40.93% 
@@ -59,9 +59,7 @@
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org)
 
 ### Github Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=Simpleboy353&theme=onedark&title=Joined2020,Commit,Followers,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
-![Simpleboy353's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simpleboy353&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simpleboy353)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=1Lucass&theme=onedark&title=Joined2020,Commit,Followers,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
