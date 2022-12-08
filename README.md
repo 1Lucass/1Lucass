@@ -33,7 +33,7 @@
 ```
 <!--END_SECTION:waka-->
 
-
+<iframe src="https://discord.com/widget?id=968913790752141352&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 ---
 
 ### Frameworks and Languages
